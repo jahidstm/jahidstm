@@ -2,7 +2,7 @@
 #### I am a professional WordPress Customizer
 ![I am a professional WordPress Customizer](https://media.licdn.com/dms/image/D5616AQHhNKYJ8K19pw/profile-displaybackgroundimage-shrink_350_1400/0/1680627249365?e=1686182400&v=beta&t=jZ9Nug3pcwGKN4Y51uToaKgiT_zIrpEoMB3DigwwCRU)
 
-Hi There! I am Jahid, an SEO Expert. I started my programming and designing career back in 2020. Until now, I have worked on 10+ client websites through WordPress. I have worked with clients all over the globe and have developed a professional bonding with trust & honesty through my work. 
+Hi There! I am Jahid, a WordPress Customizer. I started my programming and designing career back in 2020. Until now, I have worked on 10+ client websites through WordPress. I have worked with clients all over the globe and have developed a professional bonding with trust & honesty through my work. 
 
 Skills: HTML / CSS / WORDPRESS / ELEMENTOR / DIVI
 
