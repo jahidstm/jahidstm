@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Jahid Hasan
 #### I am a professional WordPress Customizer
-![I am a professional WordPress Customizer](https://media.licdn.com/dms/image/D5616AQHhNKYJ8K19pw/profile-displaybackgroundimage-shrink_350_1400/0/1680627249365?e=1686182400&v=beta&t=jZ9Nug3pcwGKN4Y51uToaKgiT_zIrpEoMB3DigwwCRU)
+![I am a Data Analytics & Software Development Expert]
 
 Hi, I'm Jahid Hasan, a passionate Software Engineering student at Daffodil International University. I specialize in Data Analytics, Machine Learning, and Software Development, with a strong interest in building data-driven solutions and intelligent systems. 
 
