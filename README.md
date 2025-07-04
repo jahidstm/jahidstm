@@ -1,17 +1,17 @@
 <h1 align="center">Hi, I'm Jahid Hasan 👋</h1>
 <p align="center">
-  💻 Aspiring Software Developer | 💡 Tech Enthusiast | 🌱 Lifelong Learner
+  💻 Aspiring Data Analyst | 💡 Tech Enthusiast | 🌱 Lifelong Learner
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm currently a **6th semester student** studying Computer Science & Engineering.
+- 🎓 I'm currently a **6th semester student** studying Software Engineering.
 - 🏡 From **Savar, Bangladesh** 🇧🇩
 - 🔭 Currently focused on **Data Analytics**, **Web Development**, and **System Design**  
 - 🧠 Learning `Python (Advanced)`, `Pandas`, `SQL`, `Data Visualization`, and `OOP`  
-- 🧪 Interested in **AI/ML**, and aiming to pursue **MSc abroad (Germany/Austria)**
+- 🧪 Interested in **AI/ML**, and aiming to pursue **MSc abroad (Germany/UK)**
 - 💼 I have 2 years of experience (2021–2022) running my **father's milk business** after his passing in December 2020.
 
 ---
