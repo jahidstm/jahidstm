@@ -1,26 +1,55 @@
-### Hi there 👋, my name is Jahid Hasan
-#### I am a Data Analytics & Software Development Expert
+<h1 align="center">Hi, I'm Jahid Hasan 👋</h1>
+<p align="center">
+  💻 Aspiring Software Developer | 💡 Tech Enthusiast | 🌱 Lifelong Learner
+</p>
 
-Hi, I'm Jahid Hasan, a passionate Software Engineering student at Daffodil International University. I specialize in Data Analytics, Machine Learning, and Software Development, with a strong interest in building data-driven solutions and intelligent systems. 
+---
 
-Currently, I’m working on projects that combine my skills in AI, ML algorithms, and data science to create practical and innovative applications. I am always eager to learn and collaborate on exciting open-source projects, and I'm continuously exploring new technologies to enhance my problem-solving abilities.
+## 👨‍💻 About Me
 
-Feel free to check out my repositories, where I share my work on data analysis, machine learning models, and various software development projects. 
+- 🎓 I'm currently a **6th semester student** studying Computer Science & Engineering.
+- 🏡 From **Savar, Bangladesh** 🇧🇩
+- 🔭 Currently focused on **Data Analytics**, **Web Development**, and **System Design**  
+- 🧠 Learning `Python (Advanced)`, `Pandas`, `SQL`, `Data Visualization`, and `OOP`  
+- 🧪 Interested in **AI/ML**, and aiming to pursue **MSc abroad (Germany/Austria)**
+- 💼 I have 2 years of experience (2021–2022) running my **father's milk business** after his passing in December 2020.
 
-Skills: C / C++ / Python / Java
+---
 
-- 🔭 I’m currently working on Fiverr. 
-- 🌱 I’m currently learning R. 
+## 🔧 Skills & Tools
 
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jahidstm)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jahidstm/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/jahidhasanstm)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/jaahid_hasan_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/jahidstm)  
+---
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jahidstm&show_icons=true)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jahidhasan&show_icons=true&theme=radical" alt="Jahid Hasan's GitHub stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahidhasan&theme=radical" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahidhasan&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-![GitHub metrics](https://metrics.lecoq.io/jahidstm)  
+---
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=jahidstm)  
+## 📬 Contact Me
 
-![Profile views](https://gpvc.arturio.dev/jahidstm)  
+- 📧 Email: jahidhasan@example.com  
+- 💼 LinkedIn: [linkedin.com/in/jahidhasan](https://www.linkedin.com/in/jahidhasan)  
+- 🌐 Portfolio: *Coming Soon*  
+- 📁 CV: *Available upon request*
+
+---
+
+<p align="center">
+  ⚡ “Stay curious, keep building, and never stop learning.” ⚡
+</p>
