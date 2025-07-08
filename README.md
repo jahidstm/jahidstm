@@ -19,13 +19,31 @@
 ## 🔧 Skills & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat)
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black&style=flat)
+
+---
+
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+
+---
+
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat)
+![SEO](https://img.shields.io/badge/-SEO-00A859?style=flat&logo=google&logoColor=white)
+
+---
+
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+
 
 ---
 
@@ -43,10 +61,10 @@
 
 ## 📬 Contact Me
 
-- 📧 Email: jahidhasan@example.com  
+- 📧 Email: jahidhasanstm@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/jahidhasan](https://www.linkedin.com/in/jahidhasan)  
 - 🌐 Portfolio: *Coming Soon*  
-- 📁 CV: *Available upon request*
+- 📁 CV: [Download My CV (PDF)](https://drive.google.com/file/d/1YVD9fSDKkI47Jl4Il_4MpsXfNpYF4g8w/view?usp=drive_link)
 
 ---
 
