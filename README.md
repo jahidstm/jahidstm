@@ -61,7 +61,7 @@
 - 📧 Email: jahidhasanstm@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/jahidhasan](https://www.linkedin.com/in/jahidhasan)  
 - 🌐 Portfolio: *Coming Soon*  
-- 📁 CV: [Download My CV (PDF)](https://drive.google.com/file/d/1YVD9fSDKkI47Jl4Il_4MpsXfNpYF4g8w/view?usp=drive_link)
+- 📁 CV: [Download My CV (PDF)](https://drive.google.com/file/d/1XDoB43RIPBAkOdKDKe-9lcw6uCLc4CPV/view?usp=sharing)
 
 ---
 
