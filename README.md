@@ -44,27 +44,33 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jahidhasan&show_icons=true&theme=radical" alt="Jahid Hasan's GitHub stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahidhasan&theme=radical" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahidhasan&layout=compact&theme=radical" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jahidstm&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahidstm&layout=compact&theme=radical" alt="Top Languages"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahidhasan&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## 📬 Contact Me
+## 📬 Contact & Connect
 
-- 📧 Email: jahidhasanstm@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/jahidhasan](https://www.linkedin.com/in/jahidhasan)  
-- 🌐 Portfolio: *Coming Soon*  
-- 📁 CV: [Download My CV (PDF)](https://drive.google.com/file/d/1XDoB43RIPBAkOdKDKe-9lcw6uCLc4CPV/view?usp=sharing)
+<p align="center">
+  <a href="mailto:jahidhasanstm@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/jahidstm">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1XDoB43RIPBAkOdKDKe-9lcw6uCLc4CPV/view">
+    <img src="https://img.shields.io/badge/Download_CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  ⚡ “Stay curious, keep building, and never stop learning.” ⚡
+  <em>"Data is the new oil, and analytics is the combustion engine." — Peter Sondergaard</em>
 </p>
