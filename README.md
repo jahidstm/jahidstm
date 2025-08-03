@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm currently a **6th semester student** studying Software Engineering.
+- 🎓 I'm currently a **6th semester student** studying Software Engineering (Data Science).
 - 🏡 From **Savar, Bangladesh** 🇧🇩
 - 🔭 Currently focused on **Data Analytics**, **Business Intelligence**, and **Cloud Computing**  
 - 🧠 Learning `Data Visualization`, `SQL`, `Excel`, and `Power BI`  
