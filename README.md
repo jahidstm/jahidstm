@@ -14,9 +14,6 @@
 - 🧪 Interested in **Data Science & Data Analytics**, and aiming to pursue **MSc abroad (Australia/Germany)**
 - 💼 I have 2 years of experience (2021–2022) running my **father's business** after his passing in December 2020.
 - 🎯 Goal: Build a strong data portfolio and land a remote internship or job before graduation
-- ⚡ Fun facts:
-  - ✈️ Traveling and exploring new places
-  - 🎬 Watching web series and action movies
 
 ---
 
