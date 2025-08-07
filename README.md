@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jaahid Hasan 👋</h1>
+<h1 align="center">Hi, I'm Jahid Hasan 👋</h1>
 <p align="center">
   💻 Aspiring Data Analyst | 💡 Tech Enthusiast | 🌱 Lifelong Learner
 </p>
