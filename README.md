@@ -10,7 +10,7 @@
 - 🎓 I'm currently a **7th semester student** studying Software Engineering.
 - 🏡 From **Savar, Bangladesh** 🇧🇩
 - 🔭 Currently focused on **Data Analytics**, **Business Intelligence**, and **Cloud Computing**  
-- 🧠 Learning `SQL`, `Excel`, and `Power BI`  
+- 🧠 Learning `SQL`, `Excel`, and `Data Visualization`  
 - 🧪 Interested in **Data Science & Data Analytics**, and aiming to pursue **MSc abroad (Australia/Germany)**
 - 🔬 Strong interest in research areas such as Machine Learning (ML), Natural Language Processing (NLP), and medical/healthcare data applications.
 - 💼 I have 2 years of experience (2021–2022) running my **father's business** after his passing in December 2020.
