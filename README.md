@@ -74,7 +74,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://drive.google.com/file/d/1XDoB43RIPBAkOdKDKe-9lcw6uCLc4CPV/view">
-    <img src="https://img.shields.io/badge/Download_CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
+    <img src="https://drive.google.com/file/d/1AeaRzanhavIbyToDZ4SBhmunZyvqL2MH/view?usp=sharing"/>
   </a>
 </p>
 
