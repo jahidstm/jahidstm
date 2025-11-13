@@ -67,14 +67,14 @@
 ## 📬 Contact & Connect
 
 <p align="center">
-  <a href="mailto:jahidhasanstm@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:jahidhasanstm@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Jahid"/>
   </a>
-  <a href="https://linkedin.com/in/jahidstm">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://linkedin.com/in/jahidstm" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
   </a>
-  <a href="https://drive.google.com/file/d/1AeaRzanhavIbyToDZ4SBhmunZyvqL2MH/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/Download_CV-34A853?style=for-the-badge&logo=googledrive&logoColor=white"/>
+  <a href="https://drive.google.com/file/d/1AeaRzanhavIbyToDZ4SBhmunZyvqL2MH/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/Download_CV-34A853?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download CV"/>
   </a>
 </p>
 
