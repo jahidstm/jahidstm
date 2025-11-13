@@ -58,8 +58,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jahidstm&show_icons=true&theme=dark" alt="Jahid's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahidstm&theme=dark" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahidstm&layout=compact&theme=dark&hide_border=true" alt="Jahid's Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahidstm&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
