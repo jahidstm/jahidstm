@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my World</h1>
+<h1 align="center">Jahid Hasan | Data Analyst</h1>
 
 <p align="center">
   💻 Aspiring Data Analyst | 💡 Tech Enthusiast | 🌱 Lifelong Learner
