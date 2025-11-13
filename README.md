@@ -20,7 +20,7 @@
 - 🔭 Currently focused on **Data Analytics**, and **Business Intelligence**
 - 🧠 Learning `SQL`, `Excel`, and `Data Visualization`  
 - 🧪 Interested in **Data Science & Data Analytics**, and aiming to pursue **MSc abroad (Australia/Germany)**
-- 🔬 Strong interest in research areas such as Machine Learning (ML), Natural Language Processing (NLP), and healthcare data applications.
+- 🔬 Strong interest in research areas such as Machine Learning (ML), Natural Language Processing (NLP), and Exploratory Data Analysis.
 - 💼 I have 2 years of experience (2021–2022) running my **father's business** after his passing in December 2020.
 - 🎯 Goal: Build a strong data portfolio and land a remote internship or job before graduation
 
