@@ -1,6 +1,14 @@
 <h1 align="center">Welcome to my World</h1>
+
 <p align="center">
   💻 Aspiring Data Analyst | 💡 Tech Enthusiast | 🌱 Lifelong Learner
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jahidstm&style=flat-square&color=blue" alt="Jahid's Profile Views"> 
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Internship-blueviolet?style=flat-square" alt="Status: Open to Internship">
 </p>
 
 ---
@@ -49,10 +57,9 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jahidstm&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahidstm&layout=compact&theme=radical" alt="Top Languages"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahidhasan&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jahidstm&show_icons=true&theme=dark" alt="Jahid's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahidstm&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahidstm&layout=compact&theme=dark&hide_border=true" alt="Jahid's Top Languages" />
 </p>
 
 ---
