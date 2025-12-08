@@ -1,4 +1,4 @@
-<h1 align="center">Jahid Hasan | Data Analyst</h1>
+<h1 align="center">Jahid Hasan | Data Anlyst</h1>
 
 <p align="center">
   💻 Software Engineering Student | 💡 Tech Enthusiast | 🌱 Lifelong Learner
