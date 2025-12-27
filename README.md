@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm currently a **7th semester student** studying Software Engineering at Daffodil International University.
+- 🎓 I'm currently a **8th semester student** studying Software Engineering at Daffodil International University.
 - 🏡 From **Savar, Bangladesh** 🇧🇩
 - 🔭 Currently focused on **Data Analytics**, and **Business Intelligence**
 - 🧠 Learning `Advance Excel`, and `Data Visualization`  
