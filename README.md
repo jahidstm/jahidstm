@@ -3,6 +3,12 @@
 </div>
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jahidstm&color=5E81AC&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+</div>
+
+<br>
+
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=5E81AC&center=true&vCenter=true&width=600&lines=Researching+multimodal+AI...;Building+data-driven+solutions...;Aspiring+MSc+Candidate..." alt="Typing SVG" />
   </a>
@@ -16,9 +22,9 @@ name: Jahid Hasan
 located_in: Savar, Dhaka, Bangladesh
 current_education: Final-year Software Engineering @ Daffodil International University
 cgpa: 3.5+
-research_focus: "DisasterNet-Bangla - Multimodal Transformer for Real-time Flood Assessment"
-career_aspiration: MSc in AI/ML (Australia/Germany)
-past_experience: Operations Manager (2021-2022) - Data & Finance Management
+current_focus: "DisasterNet-Bangla (Multimodal Flood Assessment AI)"
+next_milestone: "MSc in Australia/Germany (2027 Intake)"
+experience: "Operations Manager (Family Business, 2021-2022)"
 mission: "Bridging academic AI research with industrial applications"
 ```
 
@@ -30,10 +36,64 @@ mission: "Bridging academic AI research with industrial applications"
 
 <br>
 
+## 📌 Featured Projects
+
+<div align="center">
+  
+### 💼 Data Analytics & Business Intelligence
+
+<table>
+<tr>
+<td width="50%">
+
+[![Power BI Superstore Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=jahidstm&repo=Power-BI-Superstore-Dashboard&theme=tokyonight&bg_color=0D1117&border_color=5E81AC)](https://github.com/jahidstm/Power-BI-Superstore-Dashboard)
+
+**Tech Stack:** Power BI, DAX, Data Modeling  
+📊 Comprehensive sales performance dashboard analyzing the Superstore dataset with interactive visualizations and KPI tracking.
+
+</td>
+<td width="50%">
+
+[![HR Analytics Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=jahidstm&repo=HR-Analytics-Employee-Attrition-Power-BI&theme=tokyonight&bg_color=0D1117&border_color=5E81AC)](https://github.com/jahidstm/HR-Analytics-Employee-Attrition-Power-BI)
+
+**Tech Stack:** Power BI, IBM HR Analytics  
+👥 Interactive dashboard analyzing employee attrition trends and retention strategies using IBM HR data.
+
+</td>
+</tr>
+</table>
+
+### 📊 Data Science & Visualization
+
+<table>
+<tr>
+<td width="50%">
+
+[![Bangladesh Population Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=jahidstm&repo=Bangladesh-Population-Dashboard-Excel&theme=tokyonight&bg_color=0D1117&border_color=5E81AC)](https://github.com/jahidstm/Bangladesh-Population-Dashboard-Excel)
+
+**Tech Stack:** Excel, Data Visualization  
+🇧🇩 Comprehensive Excel dashboard analyzing population trends, density, and distribution across Bangladesh.
+
+</td>
+<td width="50%">
+
+[![Netflix Data Visualization](https://github-readme-stats.vercel.app/api/pin/?username=jahidstm&repo=Netflix-Data-Visualization-Python-Project&theme=tokyonight&bg_color=0D1117&border_color=5E81AC)](https://github.com/jahidstm/Netflix-Data-Visualization-Python-Project)
+
+**Tech Stack:** Python, Pandas, Matplotlib  
+🎬 Exploratory Data Analysis (EDA) of Netflix dataset using Python with advanced visualizations.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
 ## 🛠️ Tech Stack
 
 ### 🤖 Machine Learning & Deep Learning
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
@@ -43,7 +103,7 @@ mission: "Bridging academic AI research with industrial applications"
 </p>
 
 ### 📊 Data Visualization & Business Intelligence
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
@@ -51,7 +111,7 @@ mission: "Bridging academic AI research with industrial applications"
 </p>
 
 ### 🔧 Development Tools & Platforms
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
@@ -75,12 +135,12 @@ mission: "Bridging academic AI research with industrial applications"
 
 <br>
 
-## 🎯 2025 Goals
+## 🎯 2026 Roadmap & Research Goals
 
-- 🚀 Complete DisasterNet-Bangla research paper and submit to top-tier AI conferences
-- 📚 Secure MSc admission in AI/ML at leading universities in Australia or Germany
+- 🚀 **Thesis Completion**: Finalize "DisasterNet-Bangla" multimodal AI framework by December 2026
+- 📝 **Publication**: Publish 1 research paper in Q1/Q2 2026 in a peer-reviewed journal
+- 🌏 **Study Abroad**: Start PTE preparation (January 2027) & apply for MSc in Australia
 - 🤝 Collaborate on open-source ML projects focused on social impact
-- 📝 Publish technical blog posts on multimodal learning and NLP
 - 🏆 Contribute to disaster management AI initiatives in developing nations
 
 <br>
@@ -106,10 +166,6 @@ mission: "Bridging academic AI research with industrial applications"
 > *"During my stint as Operations Manager (2021-2022), I automated financial reporting using Python and Excel, reducing processing time by 60%. That's when I realized the power of data-driven decision making!"*
 
 <br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jahidstm&color=5E81AC&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3440,100:5E81AC&height=120&section=footer" width="100%"/>
