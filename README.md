@@ -1,91 +1,122 @@
-<h1 align="center">Jahid Hasan | Data Analyst</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3440,100:5E81AC&height=200&section=header&text=Jahid%20Hasan&fontSize=80&fontColor=ECEFF4&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20|%20ML%20Researcher%20|%20NLP%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/>
+</div>
 
-<p align="center">
-  💻 Software Engineering Student | 💡 Tech Enthusiast | 🌱 Lifelong Learner
-</p>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=5E81AC&center=true&vCenter=true&width=600&lines=Researching+multimodal+AI...;Building+data-driven+solutions...;Aspiring+MSc+Candidate..." alt="Typing SVG" />
+  </a>
+</div>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jahidstm&style=flat-square&color=blue" alt="Jahid's Profile Views"> 
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Internship-blueviolet?style=flat-square" alt="Status: Open to Internship">
-</p>
-
----
+<br>
 
 ## 👨‍💻 About Me
+```yaml
+name: Jahid Hasan
+located_in: Savar, Dhaka, Bangladesh
+current_education: Final-year Software Engineering @ Daffodil International University
+cgpa: 3.5+
+research_focus: "DisasterNet-Bangla - Multimodal Transformer for Real-time Flood Assessment"
+career_aspiration: MSc in AI/ML (Australia/Germany)
+past_experience: Operations Manager (2021-2022) - Data & Finance Management
+mission: "Bridging academic AI research with industrial applications"
+```
 
-- 🎓 I'm currently a **8th semester student** studying Software Engineering at Daffodil International University.
-- 🏡 From **Dhaka, Bangladesh** 🇧🇩
-- 🔭 Currently focused on **Data Analytics**, and **Business Intelligence**
-- 🧠 Learning `Advance Excel`, and `Data Visualization`  
-- 🧪 Interested in **Data Science & Data Analytics**, and aiming to pursue **MSc abroad (Australia/Germany)**
-- 🔬 Strong interest in research areas such as Machine Learning (ML), NLP, and Computer Vision.
-- 💼 I have 2 years of experience (2021–2022) running my **father's business** after his passing in December 2020.
-- 🎯 Goal: Build a strong data portfolio and land a remote internship or job before graduation
+<br>
 
----
+## 🔬 Current Research
 
-## 🔧 Skills & Tools
+🌊 **DisasterNet-Bangla**: Developing a cutting-edge multimodal Transformer framework that combines satellite imagery, textual reports, and sensor data for real-time flood severity assessment in Bangladesh. Aiming to revolutionize disaster response systems through AI-driven early warning mechanisms.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white&style=flat)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
-![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat)
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black&style=flat)
+<br>
 
----
+## 🛠️ Tech Stack
 
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat)
-![SEO](https://img.shields.io/badge/-SEO-00A859?style=flat&logo=google&logoColor=white)
+### 🤖 Machine Learning & Deep Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+</p>
 
----
+### 📊 Data Visualization & Business Intelligence
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+</p>
 
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+### 🔧 Development Tools & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+</p>
 
+<br>
 
----
+## 📈 GitHub Analytics
 
-## 📊 GitHub Analytics
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jahidstm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0D1117&border_color=5E81AC"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahidstm&layout=compact&langs_count=8&theme=tokyonight&bg_color=0D1117&border_color=5E81AC"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahidstm&theme=tokyonight&background=0D1117&border=5E81AC&ring=5E81AC&fire=FF6B6B&currStreakLabel=5E81AC" alt="GitHub Streak Stats"/>
+</div>
+
+<br>
+
+## 🎯 2025 Goals
+
+- 🚀 Complete DisasterNet-Bangla research paper and submit to top-tier AI conferences
+- 📚 Secure MSc admission in AI/ML at leading universities in Australia or Germany
+- 🤝 Collaborate on open-source ML projects focused on social impact
+- 📝 Publish technical blog posts on multimodal learning and NLP
+- 🏆 Contribute to disaster management AI initiatives in developing nations
+
+<br>
+
+## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/jahidstm" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api?username=jahidstm&show_icons=true&theme=dark" alt="Jahid's GitHub Stats" />
+  <a href="https://linkedin.com/in/jahidstm">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/jahidstm" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahidstm&layout=compact&theme=dark&hide_border=true" alt="Jahid's Top Languages" />
+  <a href="mailto:jahidhasanstm@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://github.com/jahidstm" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahidstm&theme=dark" alt="GitHub Streak" />
+  <a href="https://drive.google.com/your-cv-link">
+    <img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="CV"/>
   </a>
 </p>
 
+<br>
+
+## 💡 Fun Fact
+
+> *"During my stint as Operations Manager (2021-2022), I automated financial reporting using Python and Excel, reducing processing time by 60%. That's when I realized the power of data-driven decision making!"*
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jahidstm&color=5E81AC&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3440,100:5E81AC&height=120&section=footer" width="100%"/>
+</div>
+
 ---
 
-## 📬 Contact & Connect
-
-<p align="center">
-  <a href="mailto:jahidhasanstm@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Jahid"/>
-  </a>
-  <a href="https://linkedin.com/in/jahidstm" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
-  </a>
-  <a href="https://drive.google.com/file/d/1AeaRzanhavIbyToDZ4SBhmunZyvqL2MH/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/Download_CV-34A853?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download CV"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <em>"Data is the new oil, and analytics is the combustion engine." — Peter Sondergaard</em>
-</p>
+<div align="center">
+  <i>⚡ "Transforming data into insights, and insights into impact." ⚡</i>
+</div>
