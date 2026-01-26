@@ -1,12 +1,10 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3440,100:5E81AC&height=200&section=header&text=Jahid%20Hasan&fontSize=80&fontColor=ECEFF4&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20|%20ML%20Researcher%20|%20NLP%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/>
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=jahidstm&color=5E81AC&style=flat&label=Profile+Views" alt="Profile Views"/>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jahidstm&color=5E81AC&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3440,100:5E81AC&height=220&section=header&text=Jahid%20Hasan&fontSize=80&fontColor=ECEFF4&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20|%20ML%20Researcher%20|%20NLP%20Enthusiast&descAlignY=60&descAlign=50" width="100%"/>
 </div>
-
-<br>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -33,60 +31,6 @@ mission: "Bridging academic AI research with industrial applications"
 ## 🔬 Current Research
 
 🌊 **DisasterNet-Bangla**: Developing a cutting-edge multimodal Transformer framework that combines satellite imagery, textual reports, and sensor data for real-time flood severity assessment in Bangladesh. Aiming to revolutionize disaster response systems through AI-driven early warning mechanisms.
-
-<br>
-
-## 📌 Featured Projects
-
-<div align="center">
-  
-### 💼 Data Analytics & Business Intelligence
-
-<table>
-<tr>
-<td width="50%">
-
-[![Power BI Superstore Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=jahidstm&repo=Power-BI-Superstore-Dashboard&theme=tokyonight&bg_color=0D1117&border_color=5E81AC)](https://github.com/jahidstm/Power-BI-Superstore-Dashboard)
-
-**Tech Stack:** Power BI, DAX, Data Modeling  
-📊 Comprehensive sales performance dashboard analyzing the Superstore dataset with interactive visualizations and KPI tracking.
-
-</td>
-<td width="50%">
-
-[![HR Analytics Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=jahidstm&repo=HR-Analytics-Employee-Attrition-Power-BI&theme=tokyonight&bg_color=0D1117&border_color=5E81AC)](https://github.com/jahidstm/HR-Analytics-Employee-Attrition-Power-BI)
-
-**Tech Stack:** Power BI, IBM HR Analytics  
-👥 Interactive dashboard analyzing employee attrition trends and retention strategies using IBM HR data.
-
-</td>
-</tr>
-</table>
-
-### 📊 Data Science & Visualization
-
-<table>
-<tr>
-<td width="50%">
-
-[![Bangladesh Population Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=jahidstm&repo=Bangladesh-Population-Dashboard-Excel&theme=tokyonight&bg_color=0D1117&border_color=5E81AC)](https://github.com/jahidstm/Bangladesh-Population-Dashboard-Excel)
-
-**Tech Stack:** Excel, Data Visualization  
-🇧🇩 Comprehensive Excel dashboard analyzing population trends, density, and distribution across Bangladesh.
-
-</td>
-<td width="50%">
-
-[![Netflix Data Visualization](https://github-readme-stats.vercel.app/api/pin/?username=jahidstm&repo=Netflix-Data-Visualization-Python-Project&theme=tokyonight&bg_color=0D1117&border_color=5E81AC)](https://github.com/jahidstm/Netflix-Data-Visualization-Python-Project)
-
-**Tech Stack:** Python, Pandas, Matplotlib  
-🎬 Exploratory Data Analysis (EDA) of Netflix dataset using Python with advanced visualizations.
-
-</td>
-</tr>
-</table>
-
-</div>
 
 <br>
 
