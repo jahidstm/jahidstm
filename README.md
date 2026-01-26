@@ -19,7 +19,7 @@
 name: Jahid Hasan
 located_in: Savar, Dhaka, Bangladesh
 current_education: Final-year Software Engineering @ Daffodil International University
-cgpa: 3.5+
+cgpa: 3.42
 current_focus: "DisasterNet-Bangla (Multimodal Flood Assessment AI)"
 next_milestone: "MSc in Australia/Germany (2027 Intake)"
 experience: "Operations Manager (Family Business, 2021-2022)"
@@ -37,7 +37,7 @@ mission: "Bridging academic AI research with industrial applications"
 ## 🛠️ Tech Stack
 
 ### 🤖 Machine Learning & Deep Learning
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
@@ -47,7 +47,7 @@ mission: "Bridging academic AI research with industrial applications"
 </p>
 
 ### 📊 Data Visualization & Business Intelligence
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
@@ -55,7 +55,7 @@ mission: "Bridging academic AI research with industrial applications"
 </p>
 
 ### 🔧 Development Tools & Platforms
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
