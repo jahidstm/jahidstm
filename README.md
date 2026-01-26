@@ -114,18 +114,6 @@ mission: "Bridging academic AI research with industrial applications"
 
 <br>
 
-## 💡 Fun Fact
-
-> *"During my stint as Operations Manager (2021-2022), I automated financial reporting using Python and Excel, reducing processing time by 60%. That's when I realized the power of data-driven decision making!"*
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3440,100:5E81AC&height=120&section=footer" width="100%"/>
-</div>
-
----
-
 <div align="center">
   <i>⚡ "Transforming data into insights, and insights into impact." ⚡</i>
 </div>
