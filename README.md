@@ -77,10 +77,13 @@ mission: "Bridging academic AI research with industrial applications"
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jahidstm&show_icons=true&theme=nord&include_all_commits=true&count_private=true&bg_color=0D1117&border_color=5E81AC&title_color=5E81AC&icon_color=81A1C1"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahidstm&layout=compact&langs_count=8&theme=nord&bg_color=0D1117&border_color=5E81AC&title_color=5E81AC"/>
+  <a href="https://github.com/jahidstm">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jahidstm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0D1117&border_color=5E81AC&title_color=5E81AC&icon_color=81A1C1"/>
+  </a>
+  <a href="https://github.com/jahidstm">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jahidstm&layout=compact&langs_count=8&theme=tokyonight&bg_color=0D1117&border_color=5E81AC&title_color=5E81AC"/>
+  </a>
 </div>
-
 <br>
 
 ## 🎯 2026 Roadmap & Research Goals
