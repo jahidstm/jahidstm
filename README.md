@@ -23,7 +23,6 @@ cgpa: 3.42
 current_focus: "DisasterNet-Bangla (Multimodal Flood Assessment AI)"
 next_milestone: "MSc in Australia/Germany (2027 Intake)"
 experience: "Operations Manager (Family Business, 2021-2022)"
-mission: "Bridging academic AI research with industrial applications"
 ```
 
 <br>
