@@ -30,14 +30,14 @@ experience: "Operations Manager (Family Business, 2021-2022)"
 ## 🔬 Current Research
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge" alt="Status"/>
-  <img src="https://img.shields.io/badge/Target-Q4%202026-blue?style=for-the-badge" alt="Timeline"/>
-  <img src="https://img.shields.io/badge/Publication-Q1%202026-green?style=for-the-badge" alt="Publication"/>
+  <img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-orange?style=flat-square&logo=git" alt="Status" />
+  <img src="https://img.shields.io/badge/ROLE-LEAD_DEVELOPER-blue?style=flat-square&logo=codereview" alt="Role" />
+  <img src="https://img.shields.io/badge/STACK-LARAVEL_11_%26_MYSQL-teal?style=flat-square&logo=laravel" alt="Stack" />
 </div>
 
 <br>
 
-🌊 **DisasterNet-Bangla**: Developing a cutting-edge multimodal Transformer framework that combines satellite imagery, textual reports, and sensor data for real-time flood severity assessment in Bangladesh. Aiming to revolutionize disaster response systems through AI-driven early warning mechanisms.
+**🩸 LifeDrop:** Building a centralized blood donation platform for Bangladesh to bridge the critical time gap between patients and donors. The system features real-time search by location (Upazila level), automated donor eligibility calculation, and privacy-focused contact mechanisms to streamline emergency blood sourcing.
 
 <br>
 
