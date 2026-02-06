@@ -20,7 +20,7 @@ name: Jahid Hasan
 located_in: Savar, Dhaka, Bangladesh
 current_education: Final-year Software Engineering @ Daffodil International University
 cgpa: 3.42
-current_focus: "DisasterNet-Bangla (Multimodal Flood Assessment AI)"
+current_focus: "Building RoktoDut (Blood Donation Platform)"
 next_milestone: "MSc in Australia/Germany (2027 Intake)"
 experience: "Operations Manager (Family Business, 2021-2022)"
 ```
