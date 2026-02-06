@@ -27,7 +27,7 @@ experience: "Operations Manager (Family Business, 2021-2022)"
 
 <br>
 
-## 🔬 Current Research
+## 🔬 Current Project
 
 <div align="center">
   <img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-orange?style=flat-square&logo=git" alt="Status" />
