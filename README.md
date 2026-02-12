@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=jahidstm&color=5E81AC&style=flat&label=Profile+Views" alt="Profile Views"/>
 </div>
 
-<div align="center">
+<div align="right">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3440,100:5E81AC&height=240&section=header&text=Jahid%20Hasan&fontSize=80&fontColor=ECEFF4&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20Machine%20Learning&descAlignY=58&descAlign=50" width="100%"/>
 </div>
 
