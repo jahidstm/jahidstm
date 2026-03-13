@@ -17,7 +17,7 @@
 ## 👨‍💻 About Me
 ```yaml
 name: Jahid Hasan
-located_in: Savar, Dhaka, Bangladesh
+located_in: Dhaka, Bangladesh
 current_education: Final-year Software Engineering @ Daffodil International University
 current_project: "Building RoktoDut (Blood Donation Platform)"
 current_research: "Thesis: DisasterNet-Bangla (Multimodal Transformer for Flood Damage Assessment)"
