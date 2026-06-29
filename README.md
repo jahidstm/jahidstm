@@ -89,7 +89,7 @@ experience: "Operations Manager (Family Business, 2021-2022)"
 
 - 🚀 **Thesis Completion**: Finalize "DisasterNet-Bangla" multimodal AI framework by December 2026
 - 📝 **Publication**: Publish 1 research paper in Q1/Q2 2026 in a peer-reviewed journal
-- 🌏 **Study Abroad**: Start IELTS preparation (January 2027) & apply for MSc in Australia
+- 🌏 **Study Abroad**: Start IELTS preparation (January 2027) & apply for MSc in Germany
 - 🤝 Collaborate on open-source ML projects focused on social impact
 - 🏆 Contribute to disaster management AI initiatives in developing nations
 
