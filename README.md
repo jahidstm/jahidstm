@@ -19,7 +19,7 @@
 name: Jahid Hasan
 located_in: Dhaka, Bangladesh
 current_education: Final-year Software Engineering @ Daffodil International University
-current_project: "Building RoktoDut (Blood Donation Platform)"
+current_project: "None"
 current_research: "DisasterNet-Bangla (Multimodal Transformer for Flood Damage Assessment)"
 next_milestone: "MSc in Australia/Germany (2027 Intake)"
 experience: "Operations Manager (Family Business, 2021-2022)"
