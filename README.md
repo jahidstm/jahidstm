@@ -18,7 +18,7 @@
 ```yaml
 name: Jahid Hasan
 located_in: Dhaka, Bangladesh
-current_education: Final-year Software Engineering @ Daffodil International University
+current_education: Final-semester Software Engineering @ Daffodil International University
 current_project: "None"
 current_research: "DisasterNet-Bangla (Multimodal Transformer for Flood Damage Assessment)"
 next_milestone: "MSc in Germany (2027 Intake)"
