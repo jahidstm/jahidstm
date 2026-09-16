@@ -19,25 +19,38 @@
 name: Jahid Hasan
 located_in: Dhaka, Bangladesh
 current_education: Final-semester Software Engineering @ Daffodil International University
-current_project: "Personal Portfolio"
-current_research: "DisasterNet-Bangla (Multimodal Transformer for Flood Damage Assessment)"
+current_project: "DRISHTI-Bn (undergraduate thesis)"
+current_research: "Bengali multimodal AI and parameter-efficient learning"
 next_milestone: "MSc in Germany (2027 Intake)"
 experience: "Operations Manager (Family Business, 2021-2022)"
 ```
 
 <br>
 
-## 🔬 Current Project
+## 🔬 Current Research
 
 <div align="center">
-  <img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-orange?style=flat-square&logo=git" alt="Status" />
-  <img src="https://img.shields.io/badge/ROLE-LEAD_DEVELOPER-blue?style=flat-square&logo=codereview" alt="Role" />
-  <img src="https://img.shields.io/badge/STACK-LARAVEL_11_%26_MYSQL-teal?style=flat-square&logo=laravel" alt="Stack" />
+  <img src="https://img.shields.io/badge/STATUS-MANUSCRIPT_IN_PREPARATION-orange?style=flat-square&logo=git" alt="Status" />
+  <img src="https://img.shields.io/badge/ROLE-UNDERGRADUATE_RESEARCHER-blue?style=flat-square&logo=codereview" alt="Role" />
+  <img src="https://img.shields.io/badge/STACK-PYTORCH_%26_BANGLABERT-teal?style=flat-square&logo=pytorch" alt="Stack" />
 </div>
 
 <br>
 
-**🩸 RoktoDut:** A high-performance, automated blood donation ecosystem for zero-latency emergency response. Built with Laravel 12, it leverages Type-safe Enums and Hierarchical Location Mapping (Division > District > Upazila/Zone) to eliminate the critical time gap between patients and life saving donors in Bangladesh.
+**🛰️ DRISHTI-Bn:** An undergraduate thesis framework exploring flood damage classification and Bengali caption generation with ViT-B/16, BanglaBERT, and LoRA. The project uses the CrisisMMD flood-image context and documents responsible-use limitations; final evaluation results are still being verified.
+
+Read the [research documentation](https://jahidstm.lovable.app/research/drishti-bn) or visit the [DRISHTI-Bn repository](https://github.com/jahidstm/DRISHTI-Bn).
+
+<br>
+
+## ⭐ Featured Projects
+
+- [BanglaMind](https://github.com/jahidstm/banglamind) — Bengali AI support assistant prototype with FastAPI, PostgreSQL vector search, and a retrieval workflow.
+- [RoktoDut](https://github.com/jahidstm/RoktoDut---Blood-Donation-Platform) — Laravel-based blood-donation platform focused on donor discovery and emergency coordination.
+- [HR Analytics](https://github.com/jahidstm/HR-Analytics-Employee-Attrition-Power-BI) — Power BI dashboard for employee attrition patterns and retention-oriented analysis.
+- [Shishu Mela Analytics](https://github.com/jahidstm/shishu-mela-powerbi-analytics) — Power BI operations dashboard for revenue, visitors, rides, and satisfaction.
+- [Netflix Visualization](https://github.com/jahidstm/Netflix-Data-Visualization-Python-Project) — Python EDA and visualization project using pandas, NumPy, and Matplotlib.
+- [Bangladesh Population Dashboard](https://github.com/jahidstm/Bangladesh-Population-Dashboard-Excel) — Excel dashboard for population, density, and demographic trends.
 
 <br>
 
@@ -85,13 +98,13 @@ experience: "Operations Manager (Family Business, 2021-2022)"
 </div>
 <br>
 
-## 🎯 2026 Roadmap & Research Goals
+## 🎯 Current Goals
 
-- 🚀 **Thesis Completion**: Finalize "DisasterNet-Bangla" multimodal AI framework by December 2026
-- 📝 **Publication**: Publish 1 research paper in Q1/Q2 2026 in a peer-reviewed journal
-- 🌏 **Study Abroad**: Start IELTS preparation (January 2027) & apply for MSc in Germany
+- 🚀 **Thesis completion**: Finalize DRISHTI-Bn experiments and documentation during 2026
+- 📝 **Research communication**: Prepare a manuscript and possible conference submission after results are verified
+- 🌏 **Graduate study**: Prepare for MSc applications in AI, Computer Science, and Data Science for Winter 2027
 - 🤝 Collaborate on open-source ML projects focused on social impact
-- 🏆 Contribute to disaster management AI initiatives in developing nations
+- 🧪 Improve reproducibility, evaluation, and responsible-use documentation for Bengali AI research
 
 <br>
 
@@ -104,11 +117,8 @@ experience: "Operations Manager (Family Business, 2021-2022)"
   <a href="mailto:jahidhasanstm@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://drive.google.com/file/d/1RE_sxR_frm0qUp-z1xf38mXIjr5yeIyq/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-View-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
-  </a>
-  <a href="https://github.com/jahidstm">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+  <a href="https://jahidstm.lovable.app">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
