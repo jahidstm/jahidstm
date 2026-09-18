@@ -90,13 +90,30 @@ Read the [research documentation](https://jahidstm.lovable.app/research/drishti-
 
 <div align="center">
   <a href="https://github.com/jahidstm">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jahidstm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0D1117&border_color=5E81AC&title_color=5E81AC&icon_color=81A1C1"/>
+    <img
+      height="200"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jahidstm&theme=tokyonight"
+      alt="Jahid Hasan's GitHub statistics"
+    />
   </a>
   <a href="https://github.com/jahidstm">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahidstm&layout=compact&langs_count=8&theme=tokyonight&bg_color=0D1117&border_color=5E81AC&title_color=5E81AC"/>
+    <img
+      height="200"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jahidstm&theme=tokyonight"
+      alt="Jahid Hasan's most used programming languages"
+    />
   </a>
 </div>
-<br>
+
+<br />
+
+<div align="center">
+  <img
+    width="700"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jahidstm&theme=tokyonight"
+    alt="Jahid Hasan's GitHub profile details"
+  />
+</div>
 
 ## 🎯 Current Goals
 
