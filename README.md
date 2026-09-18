@@ -134,7 +134,7 @@ Read the [research documentation](https://jahidstm.lovable.app/research/drishti-
   <a href="mailto:jahidhasanstm@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://jahidstm.lovable.app">
+  <a href="https://jahidstm.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Explore-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
