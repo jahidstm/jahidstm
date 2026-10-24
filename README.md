@@ -20,7 +20,7 @@ name: Jahid Hasan
 located_in: Dhaka, Bangladesh
 current_education: Final-semester Software Engineering @ Daffodil International University
 current_project: "DRISHTI-Bn (undergraduate thesis)"
-current_research: "Bengali multimodal AI and parameter-efficient learning"
+current_research: "DRISHTI-Bn (undergraduate thesis)"
 next_milestone: "MSc in Germany (2027 Intake)"
 experience: "Operations Manager (Family Business, 2021-2022)"
 ```
